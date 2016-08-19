@@ -66,7 +66,7 @@
             "description": null,
             "exposed": true,
             "filterable": true,
-            "format": "free",
+            "format": "email",
             "max_length": null,
             "max_value": null,
             "min_length": null,
