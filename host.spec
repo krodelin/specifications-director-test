@@ -47,7 +47,9 @@
         "delete": true,
         "description": null,
         "entity_name": "Host",
-        "extends": [],
+        "extends": [
+            "@node"
+        ],
         "get": true,
         "package": null,
         "resource_name": "hosts",
